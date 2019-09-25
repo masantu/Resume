@@ -143,17 +143,8 @@
 
 目前状态为：在职，考虑换工作，100年内可到岗。
 
-<i class="fas fa-envelope fa-fw"></i> me@xaoxuu.com
-<i class="fas fa-phone-alt fa-fw"></i> 1xxxxxxxxxx
-
-
-## 主题文档
-
-这个主题非常简单，不再提供文档，请直接下载示例的源码，参考源码进行改写。
-
-- 示例源码：https://github.com/xaoxuu/resume-example
-- 主题源码：https://github.com/xaoxuu/hexo-theme-resume
-
+<i class="fas fa-envelope fa-fw"></i> imsantu.ma@gmail.com
+<i class="fas fa-phone-alt fa-fw"></i> 1xxxxx8888888
 
 <br><br><br><br>
 <center>**十分感谢您百忙之中抽出时间查看我的简历，希望有幸能与您共事！**</center>

@@ -12,11 +12,11 @@ theme: resume
 # 简历信息
 resume:
   # 简历标题
-  title: 简历标题
+  title: Python 开发工程师
   # 应聘者姓名
-  name: 姓名
+  name: SanTu.Ma
   # 邮箱
-  email: me@xaoxuu.com
+  email: imsantu.ma@gmail.com
   # 电话号码
   phone: 1xxxxxxxxxx
   # 附件下载链接
@@ -28,20 +28,20 @@ resume:
 # 页脚社交信息
 social:
   - icon: fas fa-envelope
-    url: mailto:me@xaoxuu.com
+    url: mailto:imsantu.ma@gmail.com
   - icon: fab fa-github
     url: https://github.com/imoyao
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://mxclub.github.io/resume
+url: https://masantu.github.io/resume
 # url: http://localhost:4000
 root: /resume/
 permalink: posts/:title/
-tag_dir: tags
-archive_dir: archives
-category_dir: categories
-code_dir: downloads/code
+#tag_dir: tags
+#archive_dir: archives
+#category_dir: categories
+#code_dir: downloads/code
 
 # Directory
 source_dir: src

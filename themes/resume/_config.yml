@@ -6,7 +6,7 @@ resume:
   # 应聘者姓名
   name: 快乐的小码农
   # 邮箱
-  email: imoyao@126.com
+  email: imsantu.ma@gmail.com
   # 电话号码
   phone: 188xxxxx88
   # 附件下载链接
@@ -29,6 +29,6 @@ sidebar:
 # 页脚
 footer:
   # 显示copyright
-  copyright: '[Copyright © 2017-2019 SanTu. Ma](masantu.com)'
+  copyright: '[Copyright © 2017-2019 SanTu. Ma](www.masantu.com)'
   # 显示访问量
   counter: true
