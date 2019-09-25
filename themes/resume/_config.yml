@@ -6,14 +6,14 @@ resume:
   # 应聘者姓名
   name: 快乐的小码农
   # 邮箱
-  email: me@xaoxuu.com
+  email: imoyao@126.com
   # 电话号码
-  phone: 18888888888
+  phone: 188xxxxx88
   # 附件下载链接
   download:
     title: 下载PDF简历
     icon: fas fa-download fa-fw
-    url: https://xaoxuu.com
+    url: masantu.com
 
 
 # >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
@@ -29,6 +29,6 @@ sidebar:
 # 页脚
 footer:
   # 显示copyright
-  copyright: '[Copyright © 2013-2019 Mr. Xu](https://xaoxuu.com)'
+  copyright: '[Copyright © 2017-2019 SanTu. Ma](masantu.com)'
   # 显示访问量
   counter: true
