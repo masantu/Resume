@@ -141,10 +141,22 @@
 
 ## <i class="fas fa-phone-alt"></i> 与我联系
 
-目前状态为：在职，考虑换工作，100年内可到岗。
+目前状态为：在职，考虑换工作，到岗时间详谈。
 
 <i class="fas fa-envelope fa-fw"></i> imsantu.ma@gmail.com
-<i class="fas fa-phone-alt fa-fw"></i> 1xxxxx8888888
+```python
+import base64
+
+
+def no_disturbance_if_you_do_not_mean_that(str_info):
+    ret = eval(base64.b64decode(str_info))
+    return ret
+    
+if __name__ == '__main__':
+    hard_read = b'eyJRUSI6IjQ0NTU2Nzg4OSIsInBob25lIjoiMTgyMzY5NTY3ODYiLCJlbWFpbCI6Imltc2FudHUubWFAZ21haWwuY29tIiwid2VjaGF0IjoiaW1veWFvIn0='
+    
+    print(no_disturbance_if_you_do_not_mean_that(hard_read))
+```
 
 <br><br><br><br>
 <center>**十分感谢您百忙之中抽出时间查看我的简历，希望有幸能与您共事！**</center>

@@ -29,6 +29,6 @@ sidebar:
 # 页脚
 footer:
   # 显示copyright
-  copyright: '[Copyright © 2017-2019 SanTu. Ma](www.masantu.com)'
+  copyright: '[Copyright © 2017-2019 SanTu. Ma](/)'
   # 显示访问量
   counter: true
