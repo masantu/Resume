@@ -2,148 +2,148 @@
 
 <br>
 
-<ul class="pure circle center about"><li><img src="#"></li></ul>
+<ul class="pure circle center about"><li><img src="/images/imoyao.jpg"></li></ul>
 
-<h3><b><center>姓名 - 首席贴膜攻城狮</center></b></h3>
+<h3><b><center>马尧 | Python 开发工程师</center></b></h3>
+#### <center><i class="fa fa-laptop" aria-hidden="true"></i> 在职，考虑换工作</center>
 
-<center><p>1800年开始从事贴膜行业，现就职于[某某公司]()</p></center>
+<center><p>`4` 年开发工作经验</p></center>
+
+<p style="text-align:center">现就职于<span>[北京鲸鲨软件科技有限公司](http://www.estor.com.cn/)</span></p>
+
 
 <br>
 
 {% raw %}</div>{% endraw %}
 
+## <i class="fa fa-info"></i> 个人信息
+
+<table><tbody><tr><td>性别</td><td>男</td><td>英语</td><td>CET4</td></tr><tr><td>年龄</td><td>26</td><td>学历</td><td>本科</td></tr></tbody>
+</table>
 
 
-## <i class="fas fa-user-graduate"></i> 教育背景
+## <i class="fa fa-briefcase"></i> 专业技能
 
-**XX大学 X学院 · X科 · X专业 X年毕业**
+- 熟练 `Python` 语言开发，熟悉语法使用及常用内置库及方法；
+- 熟悉 `Flask`、`Web.py`，了解 `Django`、`Tornado` 等 `Web` 框架的使用及开发；理解 `RESTful`，了解 `Celery` 框架使用；
+- 熟悉 `MySQL` 关系型数据库，掌握常用 `SQL` 语句的使用以及数据库的设计，了解 `Redis` 缓存、`MongoDB` 等 `NoSQL` 数据库的应用；
+- 熟悉面向对象编程及面向过程编程思想；
+- 具备良好的英文文档阅读能力，善于使用 `Stack Overflow` 和搜索引擎解决项目中实际遇到的各种问题；
+- 具有较丰富的云存储开发经验，了解块设备、文件系统、网络文件系统等；
+- 熟悉 `Linux` 操作系统及常用操作命令、工具以及多线程、多进程系统编程；
+- 熟悉 `Linux` 系统的网络通信技术，熟悉 `TCP/IP` 协议以及 `Socket` 编程；
+- 了解 `HTML`、`CSS`、`Javascript` 前端开发语言，以及 `jQuery`、`Element UI`、`Vuejs` 框架并在项目中实际应用；
+- 熟练 `PyCharm`、`Sublime Text`、`Vim` 等编辑器的使用；
+- 熟悉 `SVN`、`Git` 等版本控制工具的使用。
 
-
-## <i class="fas fa-user-tie"></i> 工作经验
-
-
-#### 2000年 ~ 至今：XX公司
-
-* 主要负责XXX
-
-#### 1900年 ~ 2000年：XX公司
-
-* 主要负责XXX
-
-#### 1800年 ~ 1900年：XX公司
-
-* 主要负责XXX
+## <i class="fas fa-user-tie"></i> 工作经历
 
 
+### 2017.03 – 至今         <span>|</span>          北京鲸鲨软件科技有限公司           <span>|</span>       云计算研发工程师
 
-## <i class="fas fa-award"></i> 精选项目
+#### 工作内容
 
-{% raw %}<div class="style-example example">{% endraw %}
+- 负责公司云平台产品功能实现设计及开发；
+- 公司管理系统`Mantis`平台日常`Bug`维护及修复；
+- 带领新员工熟悉业务及功能不明确时进行问题分析；
+- `Gerrit`平台团队代码评审及日常代码合并；
+- 产品数据库设计及优化；
+- 开发技术文档的编辑与整理及其他需要临时交付的任务。
 
-<ul class="pure rounded"><li>[<img src="https://i.loli.net/2019/08/10/S4BJYfVdetnMj3l.png" width="48px">心率管家](https://apps.apple.com/cn/app/heart-mate-pro-hrm-utility/id1463348922?ls=1)</li>
-<li>[<img src="https://i.loli.net/2019/08/10/9DTtOhEIV248JnM.jpg" width="48px">C养老](https://apps.apple.com/cn/app/c%E5%85%BB%E8%80%81/id1458315594)</li>
-<li>[<img src="https://i.loli.net/2019/08/10/71rYMtDPnSVo3dj.jpg" width="48px">C-Life养老](https://apps.apple.com/cn/app/c-life%E5%85%BB%E8%80%81/id1393937890)</li>
-<li>[<img src="https://i.loli.net/2019/08/10/SHcRozVJy1l5W72.jpg" width="48px">飞亚达腕能助手](https://apps.apple.com/cn/app/%E8%85%95%E8%83%BD%E5%8A%A9%E6%89%8B/id1138242219)</li>
-<li>[<img src="https://i.loli.net/2019/08/10/s7hWrvSBFyNe9kc.jpg" width="48px">LinkSmart](https://apps.apple.com/cn/app/linksmart/id1109303355)</li>
-<li>[<img src="https://i.loli.net/2019/08/10/y7aAwgPXvk4MYDu.jpg" width="48px">HitFit](https://apps.apple.com/cn/app/hitfit/id1207738581)</li></ul>
+### 2015.06 - 2017.02      <span>|</span>          西安桔家软件科技有限公司         <span>|</span>         软件开发工程师   
 
-{% raw %}</div>{% endraw %}
+#### 工作内容
 
+- 负责网站部分数据库的设计，网站后端维护及优化；
+- 负责公司产品发布，信息更新及其他后台相关管理工作；
+- 配合开发人员做好 `API` 接口开发、对接及简单功能测试；
+- 部分技术文档的日常维护及更新。
 
-### A项目
+## <i class="fas fa-award"></i> 项目展示
 
-#### 2000/01 ~ 2019/01：于XX公司开发，团队项目，维护至今
+### 项目名称：生产专用统一测试平台           <span>|</span>        2019.05-2019.08
 
-啦啦啦
+#### 项目描述
 
-### B项目
+使用 Flask 和 Vue 搭建前后端分离的 `RESTful` 后端管理系统。主要实现设备批量管理，软/硬件信息概览，系统功能，用户登录及设备性能测试等；
 
-#### 1900/01 ~ 2000/01：于XX公司开发
+**技术关键词**：Flask + Vue + Element UI + Celery + MySQL+ Nginx
 
-啦啦啦
+**项目模块**
 
-### C项目
+1.系统总览 2.硬件信息概览 3.软件信息配置管理 4.系统工具 5.系统配置 
 
-#### 1800/01 ~ 1900/01：于XX公司开发
+#### 责任描述
 
-啦啦啦
+数据库设计及技术选型；使用 `Linux` 平台管理工具实现硬件信息获取并使用 `Celery` 定期任务保存到数据库，通过异步任务处理前端下发的指令并返回结果进行展示。
+
+### 项目名称：虚拟化云存储高可用双控管理系统     <span>|</span>                 2017.03-至今
+
+#### 项目描述
+
+使用 `Web.py` 搭建支持块存储/文件存储的管理系统。可实现管理磁盘/磁盘阵列功能以及 LVM 权限/配额管理功能。基于 `RBAC` 实现访问控制，`IPSAN` 和 `FCSAN` 可选协议构建灵活的 `SAN` 存储网络，基于 `NFS` 和 `SAMBA` 搭建 `NAS` 服务。利用 `DRBD` 实现数据远端备份，`HA` 技术实现主备双活，提高系统可靠性。`Rsync` 对用户数据进行备份，防止意外发生导致数据丢失。
+
+**技术关键词**：Web.py + RAID + IPSAN + FCSAN + DRBD + HA + wxPython
+
+**项目模块**    
+
+1.系统概览 2.网络设置 3.磁盘管理 4.磁盘管理 5.`NAS` 管理 6.`SAN` 管理 7.系统工具 8.报警设置 9.日志管理 10.用户权限管理 11.远程镜像等；
+
+#### 责任描述
+
+实现 `DRBD` 整个逻辑处理流程的开发；实现 `RBAC` 权限管理模块的数据库设计、前端界面及后端逻辑代码编写及功能测试；日常 `bug` 修复及模块功能调优；新的功能需求分析，帮助新组员理解业务功能以及对较难以实现的部分进行实现思路的分析及复杂问题拆分；技术文档的整理及完善。
+
+### 项目名称：`O2O` 钟点房系统开发            <span>|</span>                    2015.07-2017.01
+
+#### 项目描述
+
+后端使用 `Django` + `Tornado` 框架为用户精准呈现实时房屋信息并提供酒店预订功能，为商户提供房源信息发布和订单管理功能。使用第三方接口实现商品图片信息存储以及图片验证码+短信验证码实现用户的注册验证，`MySQL` 数据库进行数据提取并使用 `Redis` 缓存热点数据，使用 `Ajax` 获取数据并渲染前端页面，使用 `Whoosh` 全文检索引擎实现商品搜索功能，使用 `uWSGI` + `Nginx` 反向代理实现服务器部署与搭建。
+
+**技术关键词**：Django + MySQL + Nginx + Redis + Bootstrap + 七牛云存储
+
+**项目模块**
+
+1.用户管理模块 2.房屋信息维护与展示模块 3.房屋信息检索与预订模块 4.订单管理模块 5.房屋评论系统
+
+**责任描述**
+
+参与前期数据库结构的设计，并使用第三方接口实现用户注册短信验证码验证及用户信息登记，利用 `session` 实现状态保持，完成用户登录状态验证及个人信息管理，负责实现各详细分类下的具体商品按照查询条件排序展示、商品列表页分页以及 `Redis` 缓存实现数据存储优化，从而实现商品列表的提取，商品详情页加入购物车的操作功能开发，配合前端完成接口对接与协调开发。
 
 ## <i class="fab fa-github"></i> 开源贡献
 
-### ProHUD
+### 使用 `Vue` 和 `Flask` 搭建前后端分离的 `RESTful` 个人博客
 
-#### 2019/08 ~ 至今，易于定制、接口简单的HUD库
+### 主要功能
 
-* 使用Swift5编写。
-* 包含顶部通知横幅、弹窗、底部操作表三种使用场景的UI控件。
-* 易于配置UI从而满足公司各业务线的UI要求，接口调用简单明了。
-* 源码：https://github.com/xaoxuu/ProHUD
+- 博文管理（创建、更新、删除）以及不同方式的展示（分类、归档、标签）；
+- 用户认证（注册、登录、找回密码）；
+- 基于百度翻译`API`的文章`slug`生成；
+- 基于`Celery`的邮件发送以及博客数据的备份（异步任务及定时任务）；
+- 云服务器部署等。
 
-<fancybox>
-![1.PNG](https://i.loli.net/2019/08/20/sgultOmRLXrwfA3.png)&nbsp;
-![2.PNG](https://i.loli.net/2019/08/20/a2mCq871PwfbZEG.png)&nbsp;
-![3.PNG](https://i.loli.net/2019/08/20/Zdz2cTphOlu3XKf.png)&nbsp;
-![4.PNG](https://i.loli.net/2019/08/20/87UdSGaMuevV1iF.png)&nbsp;
-![5.PNG](https://i.loli.net/2019/08/20/HEusSLBgG3XC1nN.png)
-</fancybox>
+[`IdealYard`项目源码](https://github.com/imoyao/idealyard)  
+[线上预览](http://119.3.215.66)
 
 <fancybox>
-![6.PNG](https://i.loli.net/2019/08/20/B178IvGZgbzjiuk.png)&nbsp;
-![7.PNG](https://i.loli.net/2019/08/20/YSNEX3fmdtiarjZ.png)&nbsp;
-![8.PNG](https://i.loli.net/2019/08/20/zlDXtWKfR3pLkji.png)&nbsp;
-![9.PNG](https://i.loli.net/2019/08/20/NEewmBV27fhW4yI.png)&nbsp;
-![10.PNG](https://i.loli.net/2019/08/20/XYvCIow2faRtn9P.png)
-</fancybox>
-
-<fancybox>
-![11.PNG](https://i.loli.net/2019/08/20/nHqKmNOEejgxbrf.png)&nbsp;
-![12.PNG](https://i.loli.net/2019/08/20/kScIodEnmbpaT5Y.png)&nbsp;
-![13.PNG](https://i.loli.net/2019/08/20/2RomGEC1KfSvIP9.png)
-</fancybox>
-
-### Inspire
-
-#### 2019/03 ~ 至今，一个灵感，一种心情
-
-* 使用Swift5编写。
-* 适用于独立开发者的主题管理器。
-* 源码：https://github.com/xaoxuu/Inspire
-
-### ValueX
-
-#### 2019/08 ~ 至今，实用的安全对象类型转换库（ObjC）
-
-- NSString/NSNumber/NSArray/NSSet/NSDictionary/NSData 无缝转换
-- 有效避免后台返回数据类型异常导致程序崩溃
-- 快速由已知对象得到期望的对象类型
-- 源码：https://github.com/xaoxuu/ValueX
-
-
-
-### Material X
-
-
-<fancybox>
-![](https://img.vim-cn.com/52/a54815c02ce232f11f54b2c547c1337828833c.png)
+![IdealYard](/images/blog-overview.jpg)
 </fancybox>
 
 
-#### 2017 ~ 至今，一个简约的卡片式Hexo博客主题
+## <i class="fas fa-commenting"></i> 博客交流
 
-* 完全自由的模块化、易于定制化设计
-* 移动端优化
-* 源码：https://github.com/xaoxuu/hexo-theme-material-x
+- [别院牧志](https://imoyao.github.io/)
 
-## <i class="fas fa-comments"></i> 博客与技术交流
+## <i class="fas fa-user-graduate"></i> 教育背景
 
-* 2017年5月 [《如何搭建基于Hexo的独立博客》](https://xaoxuu.com/blog/2017-07-05-hexo-blog/)
-
+**2011.09 - 2015.06             河南工业大学               本科-自动化**
 
 ## <i class="fas fa-phone-alt"></i> 与我联系
 
-目前状态为：在职，考虑换工作，到岗时间详谈。
-
 <i class="fas fa-envelope fa-fw"></i> imsantu.ma@gmail.com
+
+<p></p>
+
+更多联系方式请在`Python interpreter`中运行以下代码获取：
 ```python
 import base64
 
@@ -157,6 +157,10 @@ if __name__ == '__main__':
     
     print(no_disturbance_if_you_do_not_mean_that(hard_read))
 ```
+
+## <i class="fa fa-info-circle"></i> 自我评价
+
+本人熟练使用 `Python` 语言进行编程开发，代码风格遵守 `PEP8` 编码规范及[`Google`开源项目风格指南](https://zh-google-styleguide.readthedocs.io/en/latest/google-python-styleguide/contents/)，致力于写出 `Pythonic` 的代码，热爱开源文化。具备较强的逻辑思维和良好的沟通能力；善于团队合作协调开发并推动项目的顺利进行。希望通过学习新知识提高自我，具备较强的书面表达和文档编写能力。工作上具有拼搏进取精神，敢于挑战自我，拥有良好的职业素养和较强的工作抗压能力。
 
 <br><br><br><br>
 <center>**十分感谢您百忙之中抽出时间查看我的简历，希望有幸能与您共事！**</center>
