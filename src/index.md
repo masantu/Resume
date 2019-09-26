@@ -92,6 +92,16 @@
 #### 责任描述
 
 实现 `DRBD` 整个逻辑处理流程的开发；实现 `RBAC` 权限管理模块的数据库设计、前端界面及后端逻辑代码编写及功能测试；日常 `bug` 修复及模块功能调优；新的功能需求分析，帮助新组员理解业务功能以及对较难以实现的部分进行实现思路的分析及复杂问题拆分；技术文档的整理及完善。
+<fancybox>
+![1.PNG](/images/estor/Snipaste_2019-09-26_21-31-02.png)&nbsp;
+![2.PNG](/images/estor/Snipaste_2019-09-26_21-36-10.png)&nbsp;
+![3.PNG](/images/estor/Snipaste_2019-09-26_21-40-07.png)&nbsp;
+![4.PNG](/images/estor/Snipaste_2019-09-26_21-40-55.png)&nbsp;
+![5.PNG](/images/estor/Snipaste_2019-09-26_21-41-43.png)&nbsp;
+![6.PNG](/images/estor/Snipaste_2019-09-26_21-42-28.png)
+</fancybox>
+
+<figcaption> 注意：以上图片仅供项目展示，所有权利归原公司所有 </figcaption>
 
 ### 项目名称：`O2O` 钟点房系统开发            <span>|</span>                    2015.07-2017.01
 
@@ -129,7 +139,7 @@
 </fancybox>
 
 
-## <i class="fas fa-commenting"></i> 博客交流
+## <i class="fa fa-edit"></i> 博客交流
 
 - [别院牧志](https://imoyao.github.io/)
 

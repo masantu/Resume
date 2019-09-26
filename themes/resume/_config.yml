@@ -32,3 +32,6 @@ footer:
   copyright: '[Copyright © 2017-2019 SanTu. Ma](/)'
   # 显示访问量
   counter: true
+
+favicon:
+  url: /images/favicon.ico
