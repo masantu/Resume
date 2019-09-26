@@ -21,9 +21,9 @@ resume:
   phone: 1xxxxxxxxxx
   # 附件下载链接
   download:
-    title: 下载简历模板
+    title: 获取离线版本
     icon: fas fa-download fa-fw
-    url: https://github.com/xaoxuu/hexo-theme-resume
+    url: /doc/MaYao-Python-Developer-2019.pdf
 
 # 页脚社交信息
 social:
