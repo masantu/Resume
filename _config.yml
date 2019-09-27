@@ -195,7 +195,7 @@ lazyload:
 deploy:
 - type: git
   repo: https://github.com/masantu/resume.git
-  branch: gh-pages
+  branch: master
   message: update
 
 feed:
