@@ -132,7 +132,7 @@
 - 云服务器部署等。
 
 [`IdealYard`项目源码](https://github.com/imoyao/idealyard)  
-[线上预览](http://140.143.249.136/)
+[线上预览地址](http://140.143.249.136/)
 
 <fancybox>
 ![IdealYard](/images/blog-overview.jpg)
