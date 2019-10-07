@@ -5,7 +5,7 @@
 <ul class="pure circle center about"><li><img src="/images/imoyao.jpg"></li></ul>
 
 <h3><b><center>马尧 | Python 开发工程师</center></b></h3>
-#### <center><i class="fa fa-laptop" aria-hidden="true"></i> 在职，考虑换工作</center>
+#### <center><i class="fa fa-laptop" aria-hidden="true"></i> 在职，求职中……</center>
 
 <center><p>`4` 年开发工作经验</p></center>
 
@@ -25,15 +25,15 @@
 ## <i class="fa fa-briefcase"></i> 专业技能
 
 - 熟练 `Python` 语言开发，熟悉语法使用及常用内置库及方法；
-- 熟悉 `Flask`、`Web.py`，了解 `Django`、`Tornado` 等 `Web` 框架的使用及开发；理解 `RESTful`，了解 `Celery` 框架使用；
+- 熟悉 `Flask`、`Web.py`，了解 `Django`、`Tornado` 等 `Web` 开发框架的使用及开发；理解 `RESTful`，了解 `Celery` 分布式任务队列框架的使用；
 - 熟悉 `MySQL` 关系型数据库，掌握常用 `SQL` 语句的使用以及数据库的设计，了解 `Redis` 缓存、`MongoDB` 等 `NoSQL` 数据库的应用；
 - 熟悉面向对象编程及面向过程编程思想；
-- 具备良好的英文文档阅读能力，善于使用 `Stack Overflow` 和搜索引擎解决项目中实际遇到的各种问题；
 - 具有较丰富的云存储开发经验，了解块设备、文件系统、网络文件系统等；
 - 熟悉 `Linux` 操作系统及常用操作命令、工具以及多线程、多进程系统编程；
 - 熟悉 `Linux` 系统的网络通信技术，熟悉 `TCP/IP` 协议以及 `Socket` 编程；
 - 了解 `HTML`、`CSS`、`Javascript` 前端开发语言，以及 `jQuery`、`Element UI`、`Vuejs` 框架并在项目中实际应用；
 - 熟练 `PyCharm`、`Sublime Text`、`Vim` 等编辑器的使用；
+- 具备良好的英文文档阅读能力，善于使用 `Stack Overflow` 和搜索引擎解决项目中实际遇到的各种问题；
 - 熟悉 `SVN`、`Git` 等版本控制工具的使用。
 
 ## <i class="fas fa-user-tie"></i> 工作经历
@@ -81,7 +81,7 @@
 
 #### 项目描述
 
-使用 `Web.py` 搭建支持块存储/文件存储的管理系统。可实现管理磁盘/磁盘阵列功能以及 LVM 权限/配额管理功能。基于 `RBAC` 实现访问控制，`IPSAN` 和 `FCSAN` 可选协议构建灵活的 `SAN` 存储网络，基于 `NFS` 和 `SAMBA` 搭建 `NAS` 服务。利用 `DRBD` 实现数据远端备份，`HA` 技术实现主备双活，提高系统可靠性。`Rsync` 对用户数据进行备份，防止意外发生导致数据丢失。
+使用 `Web.py` 搭建支持块存储/文件存储的管理系统。可实现管理磁盘/磁盘阵列功能以及 `LVM` 权限/配额管理功能。基于 `RBAC` 实现访问控制，`IPSAN` 和 `FCSAN` 可选协议构建灵活的 `SAN` 存储网络，基于 `NFS` 和 `SAMBA` 搭建 `NAS` 服务。利用 `DRBD` 实现数据远端备份，`HA` 技术实现主备双活，提高系统可靠性及可用性。`Rsync` 实现备份。
 
 **技术关键词**：Web.py + RAID + IPSAN + FCSAN + DRBD + HA + wxPython
 
@@ -91,7 +91,7 @@
 
 #### 责任描述
 
-使用 `DRBD` 逻辑处理流程的开发实现数据容灾，支持主备热切换；实现 `RBAC` 权限管理模块的数据库设计、前端界面及后端逻辑代码编写及功能测试；日常 `bug` 修复及模块功能调优；新的功能需求分析，帮助新组员理解业务功能以及对较难以实现的部分进行实现思路的分析及复杂问题拆分；技术文档的整理及完善。
+使用 `DRBD` 功能开发实现数据容灾，支持主备热切换；实现基于 `RBAC` 的权限管理模块的数据库设计、前端界面及后端逻辑代码编写及功能测试；日常 `bug` 修复及模块功能调优；新功能的需求分析，帮助新组员理解业务功能以及对较难实现的部分进行功能分析及复杂问题拆分；技术文档的整理及完善。
 <fancybox>
 ![1.PNG](/images/estor/Snipaste_2019-09-26_21-31-02.png)&nbsp;
 ![2.PNG](/images/estor/Snipaste_2019-09-26_21-36-10.png)&nbsp;
@@ -103,11 +103,11 @@
 
 <figcaption> **注意**：以上图片仅供项目展示，所有权利归原公司所有 </figcaption>
 
-### 项目名称：`O2O` 钟点房系统开发            <span>|</span>                    2015.07-2017.01
+### 项目名称：`O2O` 钟点房预订系统            <span>|</span>                    2015.07-2017.01
 
 #### 项目描述
 
-后端使用 `Django` + `Tornado` 框架为用户精准呈现实时房屋信息并提供酒店预订功能，为商户提供房源信息发布和订单管理功能。使用第三方接口实现商品图片信息存储以及图片验证码+短信验证码实现用户的注册验证，`MySQL` 数据库进行数据提取并使用 `Redis` 缓存热点数据，使用 `Ajax` 获取数据并渲染前端页面，使用 `Whoosh` 全文检索引擎实现商品搜索功能，使用 `uWSGI` + `Nginx` 反向代理实现服务器部署与搭建。
+后端使用 `Django` 及 `Tornado` 框架为用户精准呈现实时房屋信息并实现酒店预订功能，为商户提供房源信息发布和订单管理功能。使用第三方接口实现商品图片信息存储以及图片验证码+短信验证码实现用户的注册验证，`MySQL` 数据库存储并使用 `Redis` 缓存热点数据，使用 `Whoosh` 全文检索引擎实现商品搜索功能，服务端使用 `Nginx` 反向代理实现部署。
 
 **技术关键词**：Django + MySQL + Nginx + Redis + Bootstrap + 七牛云存储
 
