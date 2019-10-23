@@ -25,15 +25,16 @@
 ## <i class="fa fa-briefcase"></i> 专业技能
 
 - 熟练 `Python` 语言开发，熟悉语法使用及常用内置库及方法；
-- 熟悉 `Flask`、`Web.py`，了解 `Django`、`Tornado` 等 `Web` 开发框架的使用及开发；理解 `RESTful`，了解 `Celery` 分布式任务队列框架的使用；
-- 熟悉 `MySQL` 关系型数据库，掌握常用 `SQL` 语句的使用以及数据库的设计，了解 `Redis` 缓存、`MongoDB` 等 `NoSQL` 数据库的应用；
+- 熟悉 `Flask`、`Web.py`，了解 `Django`、`Tornado` 等 `Web` 开发框架的使用及开发；理解 `RESTful`，熟悉 `Celery` 分布式任务队列框架的使用；
+- 熟悉 `MySQL` 关系型数据库，掌握常用 `SQL` 语句的使用以及数据库的设计，熟悉 `Redis` 缓存，了解`MongoDB` 等 `NoSQL` 数据库的应用；
 - 熟悉面向对象编程及面向过程编程思想；
-- 具有较丰富的云存储开发经验，了解块设备、文件系统、网络文件系统等；
+- 具有较丰富的云存储开发经验，熟悉块存储、文件存储、网络文件系统等；
 - 熟悉 `Linux` 操作系统及常用操作命令、工具以及多线程、多进程系统编程；
 - 熟悉 `Linux` 系统的网络通信技术，熟悉 `TCP/IP` 协议以及 `Socket` 编程；
-- 了解 `HTML`、`CSS`、`Javascript` 前端开发语言，以及 `jQuery`、`Element UI`、`Vuejs` 框架并在项目中实际应用；
-- 熟练 `PyCharm`、`Sublime Text`、`Vim` 等编辑器的使用；
+- 熟悉 `HTML`、`CSS`、`Javascript` 前端开发语言，以及 `jQuery`、`Element UI`、`Vuejs` 框架并在项目中实际应用；
 - 具备良好的英文文档阅读能力，善于使用 `Stack Overflow` 和搜索引擎解决项目中实际遇到的各种问题；
+- 熟悉使用`Nginx`和云服务器部署应用流程； 
+- 熟练 `PyCharm`、`Sublime Text`、`Vim` 等编辑器的使用；
 - 熟悉 `SVN`、`Git` 等版本控制工具的使用。
 
 ## <i class="fas fa-user-tie"></i> 工作经历
@@ -71,7 +72,7 @@
 
 **项目模块**
 
-1.系统总览 2.硬件信息概览 3.软件信息配置管理 4.系统工具 5.系统配置 
+1.系统概览 2.硬件信息概览 3.软件信息配置管理 4.系统工具 5.系统配置 
 
 #### 责任描述
 
