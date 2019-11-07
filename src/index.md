@@ -131,10 +131,10 @@
 - 用户认证（注册、登录、找回密码）；
 - 基于百度翻译`API`的文章`slug`生成；
 - 基于`Celery`的邮件发送以及博客数据的备份（异步任务及定时任务）；
-- 云服务器部署等。
+- 使用云服务器部署等。
 
-[`IdealYard`项目源码](https://github.com/imoyao/idealyard)  
-[线上预览地址](http://140.143.249.136/)
+- [`IdealYard`项目源码](https://github.com/imoyao/idealyard)  
+- [线上预览地址](http://140.143.249.136/)
 
 <fancybox>
 ![IdealYard](/images/blog-overview.jpg)
