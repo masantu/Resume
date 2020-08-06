@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Hexo</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://masantu.github.io/resume/"/>
+  <updated>2020-08-06T13:00:23.579Z</updated>
+  <id>https://masantu.github.io/resume/</id>
+  
+  <author>
+    <name>John Doe</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title></title>
+    <link href="https://masantu.github.io/resume/posts/README/"/>
+    <id>https://masantu.github.io/resume/posts/README/</id>
+    <published>2020-08-06T13:00:23.579Z</published>
+    <updated>2020-08-06T13:00:23.579Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
