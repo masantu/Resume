@@ -16,19 +16,19 @@ resume:
   # 应聘者姓名
   name: 马尧
   # 邮箱
-  email: imsantu.ma@gmail.com
+  email: imoyao@126.com
   # 电话号码
-  phone: 1xxxxxxxxxx
+  phone: 15910838202
   # 附件下载链接
   download:
     title: 获取离线版本
     icon: fas fa-download fa-fw
-    url: /doc/MaYao-Python-Developer-2019.pdf
+    url: /doc/MaYao-Python-Developer-2020.pdf
 
 # 页脚社交信息
 social:
   - icon: fas fa-envelope
-    url: mailto:imsantu.ma@gmail.com
+    url: mailto:imoyao@126.com
   - icon: fab fa-github
     url: https://github.com/imoyao
 

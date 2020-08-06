@@ -7,20 +7,16 @@
 <h3><b><center>马尧 | Python 开发工程师</center></b></h3>
 #### <center><i class="fa fa-laptop" aria-hidden="true"></i> 在职，求职中……</center>
 
-<center><p>`4` 年开发工作经验</p></center>
+<center><p>`5` 年开发工作经验</p></center>
 
 <p style="text-align:center">现就职于<span>[北京鲸鲨软件科技有限公司](http://www.estor.com.cn/)</span></p>
-
 
 <br>
 
 {% raw %}</div>{% endraw %}
 
 ## <i class="fa fa-info"></i> 个人信息
-
-<table><tbody><tr><td>性别</td><td>男</td><td>英语</td><td>CET4</td></tr><tr><td>年龄</td><td>26</td><td>学历</td><td>本科</td></tr></tbody>
-</table>
-
+<table><tbody><tr><td>性别</td><td>男</td><td>英语</td><td>CET4</td></tr><tr><td>年龄</td><td>27</td><td>学历</td><td>本科</td></tr></tbody></table>
 
 ## <i class="fa fa-briefcase"></i> 专业技能
 
@@ -33,22 +29,21 @@
 - 熟悉 `Linux` 系统的网络通信技术，熟悉 `TCP/IP` 协议以及 `Socket` 编程；
 - 熟悉 `HTML`、`CSS`、`Javascript` 前端开发语言，以及 `jQuery`、`Element UI`、`Vuejs` 框架并在项目中实际应用；
 - 具备良好的英文文档阅读能力，善于使用 `Stack Overflow` 和搜索引擎解决项目中实际遇到的各种问题；
-- 熟悉使用`Nginx`和云服务器部署应用流程； 
+- 熟悉使用`Nginx`和云服务器部署网络应用的流程；
 - 熟悉 `SVN`、`Git` 等版本控制工具的使用。
 - 熟练 `PyCharm`、`Sublime Text`、`Vim` 等编辑器的使用；
 
 ## <i class="fas fa-user-tie"></i> 工作经历
 
-
 ### 2017.03 – 至今         <span>|</span>          北京鲸鲨软件科技有限公司           <span>|</span>       云计算研发工程师
 
 #### 工作内容
 
-- 负责公司云平台产品功能实现设计及开发；
+- 负责公司云平台产品功能设计及开发实现；
 - 基于`OpenStack`的`Cinder`组件和`Ceph`开源管理系统的二次开发；
 - 公司管理系统`Mantis`平台日常`Bug`维护及修复；
 - 带领新员工熟悉业务及功能不明确时进行问题分析；
-- `Gerrit`平台团队代码评审及协助日常代码合并；
+- `Gerrit`平台团队代码评审及协助日常代码评审、合并；
 - 产品数据库设计及优化；
 - 开发技术文档的编辑与整理及其他需要临时交付的任务。
 
@@ -62,6 +57,22 @@
 - 部分技术文档的日常维护及更新。
 
 ## <i class="fas fa-award"></i> 项目展示
+
+### 项目名称：基于CEPH 官方管理平台的二次开发      <span>|</span>              2019.11-至今
+
+### 项目描述
+
+CEPH 是一种分布式存储系统解决方案。我们主要实现的功能是基于官方的moudle模块的dashboard功能实现二次开发，对块存储中的一部分不需要功能进行屏蔽以及其他产品功能的添加，优化管理过程中处理流程及体验，并对CEPH部署流程进行傻瓜式封装（脚本化）。
+
+**技术关键词**：Ceph + CherryPy + Angular + ngx-bootstrap + TypeScript
+
+**项目模块**
+1.集群配置 2.节点管理 3.系统配置 4.日志管理 5.License管理
+
+### 责任描述
+
+对产品进行预研，分析社区现状及产品定位；对所负责功能开发、自测、bug修复跟踪等；项目代码质量控制；部署脚本化功能开发及外围流程优化等。
+
 
 ### 项目名称：生产专用统一测试平台           <span>|</span>        2019.05-2019.08
 
@@ -79,7 +90,7 @@
 
 数据库设计及技术选型；使用 `Linux` 平台管理工具实现硬件信息获取并使用 `Celery` 实现异步调用和定时任务保存到`Redis`缓存和后端`MySQL`数据库，通过异步任务处理前端下发的指令并返回结果实现页面展示。
 
-### 项目名称：虚拟化云存储高可用双控管理系统     <span>|</span>                 2017.03-至今
+### 项目名称：云存储高可用双控管理系统     <span>|</span>                 2017.03-至今
 
 #### 项目描述
 
@@ -133,8 +144,10 @@
 - 基于`Celery`的邮件发送以及博客数据的备份（异步任务及定时任务）；
 - 使用云服务器部署等。
 
-- [`IdealYard`项目源码](https://github.com/imoyao/idealyard)  
-- [线上预览地址](http://140.143.249.136/)
+### 其他信息
+
+- [`IdealYard`项目源码](https://github.com/imoyao/idealyard)
+- 线上 [预览地址](http://140.143.249.136/)
 
 <fancybox>
 ![IdealYard](/images/blog-overview.jpg)
@@ -151,7 +164,7 @@
 
 ## <i class="fas fa-phone-alt"></i> 与我联系
 
-<i class="fas fa-envelope fa-fw"></i> imsantu.ma@gmail.com
+<i class="fas fa-envelope fa-fw"></i> imoyao@126.com
 
 <p></p>
 
@@ -173,7 +186,7 @@ if __name__ == '__main__':
 
 ## <i class="fa fa-info-circle"></i> 自我评价
 
-本人熟练使用 `Python` 语言进行编程开发，代码风格遵守 `PEP8` 编码规范及[`Google`开源项目风格指南](https://zh-google-styleguide.readthedocs.io/en/latest/google-python-styleguide/contents/)，致力于写出 `Pythonic` 的代码，热爱开源文化。具备较强的逻辑思维和良好的沟通能力；善于团队合作协调开发并推动项目的顺利进行。希望通过学习新知识提高自我，具备较强的书面表达和文档编写能力。工作上具有拼搏进取精神，敢于挑战自我，拥有良好的职业素养和较强的工作抗压能力。
+本人熟练使用 `Python` 语言进行编程开发，寻求专精于 Python 语言的开发工作。如果机会成熟，也会考虑 Go 等其他方向的语言探索；目前主要从事云计算和web开发方向的工作；代码风格遵守 `PEP8` 编码规范及[`Google`开源项目风格指南](https://zh-google-styleguide.readthedocs.io/en/latest/google-python-styleguide/contents/)，致力于写出 `Pythonic` 的代码，热爱开源文化。具备较强的逻辑思维和良好的沟通能力；善于团队合作协调开发并推动项目的顺利进行。希望通过学习新知识提高自我，具备较强的书面表达和文档编写能力。工作上具有拼搏进取精神，敢于挑战自我，拥有良好的职业素养和较强的工作抗压能力。
 
-<br><br><br><br>
+<br><br>
 <center>**十分感谢您百忙之中抽出时间查看我的简历，希望有幸能与您共事！**</center>
